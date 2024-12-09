@@ -1,5 +1,5 @@
 
-## Instructions for running a linux script on a Docker container to get the latest version of a nuget package from ubuntu. 
+## Instructions for running a linux script on  Docker  - to get the latest version of a nuget package from ubuntu. 
 
 Let me know if you need any further modifications! 😊
 
